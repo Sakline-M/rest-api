@@ -37,11 +37,11 @@ console.log(`this  is for rest api ${PORT}`.bgMagenta);
 
 ## Packages
 
-*Exprss Js
-*Nodemon
-*Colors
-*dotenv
-*multer
-*nodemailer
+-Exprss Js
+-Nodemon
+-Colors
+-dotenv
+-multer
+-nodemailer
 
 
