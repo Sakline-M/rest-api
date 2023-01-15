@@ -1,5 +1,5 @@
 
-<img src="food1.jpg">
+<img src="./food1.jpg">
 
 ### REST API with Express Server
 
